@@ -282,6 +282,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [gsoleilhac/aoc19.jl](https://github.com/gsoleilhac/aoc19.jl) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/gsoleilhac/aoc19.jl.svg)
 * [kamilbeker/aoc2019.jl](https://github.com/kamilbeker/aoc2019.jl) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kamilbeker/aoc2019.jl.svg)
 * [racinmat/advent_of_code_2019](https://github.com/racinmat/advent_of_code_2019) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/racinmat/advent_of_code_2019.svg)
+* [kdheepak/adventofcode/2019/julia](https://github.com/kdheepak/adventofcode/tree/master/2019/julia) ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kdheepak/adventofcode.svg)
 
 #### Kotlin
 
